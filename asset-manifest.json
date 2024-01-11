@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nemo2023/static/css/main.cf2dd047.css",
-    "main.js": "/nemo2023/static/js/main.39e1ff1e.js",
+    "main.js": "/nemo2023/static/js/main.a91dfec2.js",
     "static/js/787.d1899b68.chunk.js": "/nemo2023/static/js/787.d1899b68.chunk.js",
     "static/media/59_サムネ_正方形_斜陽.png": "/nemo2023/static/media/59_サムネ_正方形_斜陽.0d7199fed96da4613984.png",
     "static/media/119_サムネ_正方形_勇者.png": "/nemo2023/static/media/119_サムネ_正方形_勇者.75d6a38bf646e4d8d8f3.png",
@@ -29,11 +29,11 @@
     "static/media/13_サムネ_縦長_残機.png": "/nemo2023/static/media/13_サムネ_縦長_残機.e7814e720e33f56b2515.png",
     "index.html": "/nemo2023/index.html",
     "main.cf2dd047.css.map": "/nemo2023/static/css/main.cf2dd047.css.map",
-    "main.39e1ff1e.js.map": "/nemo2023/static/js/main.39e1ff1e.js.map",
+    "main.a91dfec2.js.map": "/nemo2023/static/js/main.a91dfec2.js.map",
     "787.d1899b68.chunk.js.map": "/nemo2023/static/js/787.d1899b68.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf2dd047.css",
-    "static/js/main.39e1ff1e.js"
+    "static/js/main.a91dfec2.js"
   ]
 }
