@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nemo2024/static/css/main.ea3c3804.css",
-    "main.js": "/nemo2024/static/js/main.3d0c44ff.js",
+    "main.css": "/nemo2024/static/css/main.6861a5fa.css",
+    "main.js": "/nemo2024/static/js/main.09d6e265.js",
     "static/js/787.d1899b68.chunk.js": "/nemo2024/static/js/787.d1899b68.chunk.js",
     "static/media/59_サムネ_正方形_斜陽.png": "/nemo2024/static/media/59_サムネ_正方形_斜陽.0d7199fed96da4613984.png",
     "static/media/119_サムネ_正方形_勇者.png": "/nemo2024/static/media/119_サムネ_正方形_勇者.75d6a38bf646e4d8d8f3.png",
@@ -27,14 +27,17 @@
     "static/media/2_サムネ_縦長_フォニィ.png": "/nemo2024/static/media/2_サムネ_縦長_フォニィ.be5c9d8a29d25a725a1f.png",
     "static/media/130_サムネ_縦長_クラクラ.png": "/nemo2024/static/media/130_サムネ_縦長_クラクラ.160d85e7cf01576face3.png",
     "static/media/13_サムネ_縦長_残機.png": "/nemo2024/static/media/13_サムネ_縦長_残機.e7814e720e33f56b2515.png",
+    "static/media/illustBtn.png": "/nemo2024/static/media/illustBtn.31b7d4834e9155c62ba9.png",
+    "static/media/eventBtn.png": "/nemo2024/static/media/eventBtn.45377e56e464b1f47641.png",
+    "static/media/massageBtn.png": "/nemo2024/static/media/massageBtn.567963a7e3ec30730850.png",
     "static/media/umenity.jpg": "/nemo2024/static/media/umenity.06d136e29418dc0fcfc8.jpg",
     "index.html": "/nemo2024/index.html",
-    "main.ea3c3804.css.map": "/nemo2024/static/css/main.ea3c3804.css.map",
-    "main.3d0c44ff.js.map": "/nemo2024/static/js/main.3d0c44ff.js.map",
+    "main.6861a5fa.css.map": "/nemo2024/static/css/main.6861a5fa.css.map",
+    "main.09d6e265.js.map": "/nemo2024/static/js/main.09d6e265.js.map",
     "787.d1899b68.chunk.js.map": "/nemo2024/static/js/787.d1899b68.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea3c3804.css",
-    "static/js/main.3d0c44ff.js"
+    "static/css/main.6861a5fa.css",
+    "static/js/main.09d6e265.js"
   ]
 }
