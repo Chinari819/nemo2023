@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nemo2024/static/css/main.7ed3f814.css",
-    "main.js": "/nemo2024/static/js/main.904f047c.js",
+    "main.js": "/nemo2024/static/js/main.c62ae9ba.js",
     "static/js/787.d1899b68.chunk.js": "/nemo2024/static/js/787.d1899b68.chunk.js",
     "static/media/第2衣装お披露目.png": "/nemo2024/static/media/第2衣装お披露目.0519e31c59efca921703.png",
     "static/media/20000.png": "/nemo2024/static/media/20000.cc46b25e17ab6fdac005.png",
@@ -14,6 +14,7 @@
     "static/media/VTuberStyle3.png": "/nemo2024/static/media/VTuberStyle3.1bd7facf26ed162a91bd.png",
     "static/media/30000.png": "/nemo2024/static/media/30000.7e6719205cc039cae0ea.png",
     "static/media/60000.png": "/nemo2024/static/media/60000.c6cbdd07277f98165c78.png",
+    "static/media/135_サムネ_正方形_キュートなカノジョ.png": "/nemo2024/static/media/135_サムネ_正方形_キュートなカノジョ.70500b810b6748a29e7f.png",
     "static/media/Song Festival.png": "/nemo2024/static/media/Song Festival.f434e06a7d9d338ca6e5.png",
     "static/media/59_サムネ_正方形_斜陽.png": "/nemo2024/static/media/59_サムネ_正方形_斜陽.0d7199fed96da4613984.png",
     "static/media/22222.png": "/nemo2024/static/media/22222.02c7f31e5f8164eb6a01.png",
@@ -87,11 +88,11 @@
     "static/media/ランキング歌枠.png": "/nemo2024/static/media/ランキング歌枠.19d1b74c25f54204b8cc.png",
     "index.html": "/nemo2024/index.html",
     "main.7ed3f814.css.map": "/nemo2024/static/css/main.7ed3f814.css.map",
-    "main.904f047c.js.map": "/nemo2024/static/js/main.904f047c.js.map",
+    "main.c62ae9ba.js.map": "/nemo2024/static/js/main.c62ae9ba.js.map",
     "787.d1899b68.chunk.js.map": "/nemo2024/static/js/787.d1899b68.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ed3f814.css",
-    "static/js/main.904f047c.js"
+    "static/js/main.c62ae9ba.js"
   ]
 }
