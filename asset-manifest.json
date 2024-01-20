@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nemo2024/static/css/main.f4526076.css",
-    "main.js": "/nemo2024/static/js/main.bc45b21e.js",
+    "main.js": "/nemo2024/static/js/main.07220262.js",
     "static/js/787.d1899b68.chunk.js": "/nemo2024/static/js/787.d1899b68.chunk.js",
     "static/media/第2衣装お披露目.png": "/nemo2024/static/media/第2衣装お披露目.0519e31c59efca921703.png",
     "static/media/エイジオブゼット.png": "/nemo2024/static/media/エイジオブゼット.4ee35739825c0d4c8fec.png",
@@ -41,6 +41,7 @@
     "static/media/96_サムネ_正方形_月のワルツ.png": "/nemo2024/static/media/96_サムネ_正方形_月のワルツ.19d5264fe91a2c6999d6.png",
     "static/media/57_サムネ_正方形_テレキャスタービーボーイ.png": "/nemo2024/static/media/57_サムネ_正方形_テレキャスタービーボーイ.01f7116e386d2beccecf.png",
     "static/media/Resonance.png": "/nemo2024/static/media/Resonance.c5cca0cf3f950f122189.png",
+    "static/media/135_サムネ_縦長_キュートなカノジョ.png": "/nemo2024/static/media/135_サムネ_縦長_キュートなカノジョ.21683f5b7d11da0e718d.png",
     "static/media/nautilus.png": "/nemo2024/static/media/nautilus.aaaadb865cb9f683bc41.png",
     "static/media/8_サムネ_縦長_可愛くてごめん.png": "/nemo2024/static/media/8_サムネ_縦長_可愛くてごめん.9651be9d26e1423ea4cc.png",
     "static/media/13_サムネ_正方形_残機.png": "/nemo2024/static/media/13_サムネ_正方形_残機.38c76363714ae1618c60.png",
@@ -90,11 +91,11 @@
     "static/media/花に亡霊10万.png": "/nemo2024/static/media/花に亡霊10万.3a5d67ea3bd2fa10b101.png",
     "index.html": "/nemo2024/index.html",
     "main.f4526076.css.map": "/nemo2024/static/css/main.f4526076.css.map",
-    "main.bc45b21e.js.map": "/nemo2024/static/js/main.bc45b21e.js.map",
+    "main.07220262.js.map": "/nemo2024/static/js/main.07220262.js.map",
     "787.d1899b68.chunk.js.map": "/nemo2024/static/js/787.d1899b68.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4526076.css",
-    "static/js/main.bc45b21e.js"
+    "static/js/main.07220262.js"
   ]
 }
