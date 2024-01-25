@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nemo2024/static/css/main.acbeab6e.css",
-    "main.js": "/nemo2024/static/js/main.6f915ee0.js",
+    "main.js": "/nemo2024/static/js/main.c2d5ff8d.js",
     "static/js/787.d1899b68.chunk.js": "/nemo2024/static/js/787.d1899b68.chunk.js",
     "static/media/マッチョポーズ.gif": "/nemo2024/static/media/マッチョポーズ.58cf9994b2a0eb0051fa.gif",
     "static/media/私物展示.png": "/nemo2024/static/media/私物展示.07454a1d2906fd327599.png",
@@ -196,11 +196,11 @@
     "static/media/花に亡霊10万.png": "/nemo2024/static/media/花に亡霊10万.3a5d67ea3bd2fa10b101.png",
     "index.html": "/nemo2024/index.html",
     "main.acbeab6e.css.map": "/nemo2024/static/css/main.acbeab6e.css.map",
-    "main.6f915ee0.js.map": "/nemo2024/static/js/main.6f915ee0.js.map",
+    "main.c2d5ff8d.js.map": "/nemo2024/static/js/main.c2d5ff8d.js.map",
     "787.d1899b68.chunk.js.map": "/nemo2024/static/js/787.d1899b68.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acbeab6e.css",
-    "static/js/main.6f915ee0.js"
+    "static/js/main.c2d5ff8d.js"
   ]
 }
